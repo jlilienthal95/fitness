@@ -22,3 +22,13 @@
   font-weight: 600;
   font-style: normal;
 }
+
+:root {
+  --safe-height: 100vh;
+}
+
+@supports (height: 100dvh) {
+  :root {
+    --safe-height: 100dvh;
+  }
+}
