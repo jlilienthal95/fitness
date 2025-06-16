@@ -1,7 +1,14 @@
 @import 'tailwindcss';
 
+html {
+overflow: hidden;
+width: 100%;
+}
 body {
-  position: fixed;
+height: 100%;
+position: fixed;
+overflow-y: scroll;
+-webkit-overflow-scrolling: touch;
 }
 
 .oswald-reg {
