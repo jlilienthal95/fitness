@@ -32,10 +32,10 @@
 			</div>
 		</div>
 		<video
-
+			autoplay
 			muted
 			playsInline
-
+			loop
 			class="w-full object-cover md:w-200"
 		>
 			<source src="/vids/lifting.mp4" type="video/mp4" />
