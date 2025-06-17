@@ -6,11 +6,10 @@ html, body {
   height: 100%;
 }
 
-#main-container {
+#mainCont {
   height: 100dvh;
   display: flex;
   flex-direction: column;
-
   padding-top: env(safe-area-inset-top);  /* helps with notches and address bar */
   padding-bottom: env(safe-area-inset-bottom); /* helps with bottom nav */
   box-sizing: border-box;
