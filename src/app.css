@@ -1,7 +1,7 @@
 @import 'tailwindcss';
 
-body {
-position: fixed;
+html, body {
+  height: 100%;
 }
 
 .oswald-reg {
