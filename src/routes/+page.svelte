@@ -16,7 +16,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="relative flex h-[calc(100vh-6rem)] md:h-full flex-col md:flex-row overflow-hidden justify-end">
+	<div class="relative flex h-[calc(100svh-6rem)] md:h-full flex-col md:flex-row overflow-hidden justify-end">
 		<!-- <div class="md:hidden absolute top-0 oswald-bold w-full text-end text-2xl lg:text-4xl bg-[#7a612f]/70 p-3">
 			TRANSFORM YOUR BODY WITH FUNCTIONAL TRAINING
 		</div> -->
