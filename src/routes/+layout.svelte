@@ -8,7 +8,7 @@
 	const navLabelClass = ""
 </script>
 
-<div class="relative flex md:flex-row flex-col-reverse w-full h-[svh100] bg-[#7a612f] ">
+<div class="relative flex md:flex-row flex-col-reverse w-full h-[100svh] bg-[#7a612f] ">
 	<div class="absolute inset-0 bg-[url(/strange-bullseyes.png)] opacity-50 z-0">
 
 	</div>
